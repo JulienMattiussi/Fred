@@ -1,4 +1,4 @@
-# pierre
+# Fred Vue Js Project
 
 ## Project setup
 ```
